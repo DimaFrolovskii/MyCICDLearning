@@ -1,0 +1,14 @@
+C:\MyCICDLearning\SimpleApp\bin\Debug\net9.0\SimpleApp.exe
+C:\MyCICDLearning\SimpleApp\bin\Debug\net9.0\SimpleApp.deps.json
+C:\MyCICDLearning\SimpleApp\bin\Debug\net9.0\SimpleApp.runtimeconfig.json
+C:\MyCICDLearning\SimpleApp\bin\Debug\net9.0\SimpleApp.dll
+C:\MyCICDLearning\SimpleApp\bin\Debug\net9.0\SimpleApp.pdb
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.AssemblyInfoInputs.cache
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.AssemblyInfo.cs
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.csproj.CoreCompileInputs.cache
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.dll
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\refint\SimpleApp.dll
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.pdb
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.genruntimeconfig.cache
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\ref\SimpleApp.dll
