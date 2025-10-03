@@ -17,6 +17,7 @@ namespace SimpleApp
             Console.WriteLine($"2 + 3 = {calc.Add(2, 3)}");
             Console.WriteLine($"2 * 3 = {calc.Multiply(2, 3)}");
             Console.WriteLine("✅ Всё работает!");
+            Console.WriteLine("CI/CD тест!");
         }
     }
 }
