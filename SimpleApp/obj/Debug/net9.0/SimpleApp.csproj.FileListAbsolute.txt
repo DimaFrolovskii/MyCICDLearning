@@ -12,3 +12,4 @@ C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\refint\SimpleApp.dll
 C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.pdb
 C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.genruntimeconfig.cache
 C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\ref\SimpleApp.dll
+C:\MyCICDLearning\SimpleApp\obj\Debug\net9.0\SimpleApp.sourcelink.json

@@ -103,3 +103,4 @@ C:\MyCICDLearning\SimpleApp.Tests\obj\Debug\net9.0\refint\SimpleApp.Tests.dll
 C:\MyCICDLearning\SimpleApp.Tests\obj\Debug\net9.0\SimpleApp.Tests.pdb
 C:\MyCICDLearning\SimpleApp.Tests\obj\Debug\net9.0\SimpleApp.Tests.genruntimeconfig.cache
 C:\MyCICDLearning\SimpleApp.Tests\obj\Debug\net9.0\ref\SimpleApp.Tests.dll
+C:\MyCICDLearning\SimpleApp.Tests\obj\Debug\net9.0\SimpleApp.Tests.sourcelink.json

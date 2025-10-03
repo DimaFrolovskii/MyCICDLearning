@@ -1,0 +1,19 @@
+image: mcr.microsoft.com/dotnet/sdk:8.0
+
+stages:
+  - build
+  - test
+
+build:
+  stage: build
+  script:
+    - echo "🔨 Building project..."
+    - dotnet build
+    - echo "✅ Build completed!"
+
+test:
+  stage: test
+  script:
+    - echo "🧪 Running tests..."
+    - dotnet test
+    - echo "✅ Tests passed!"
